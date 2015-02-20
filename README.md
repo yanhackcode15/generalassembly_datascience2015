@@ -1,6 +1,6 @@
 # la-dat-06
 ===========
-General Assembly Data Science, Los Angeles, November 2014 - February 2015
+General Assembly Data Science, Los Angeles, February 2015 - April 2015
 ------------------------------------------------------
 
 ### General Info
