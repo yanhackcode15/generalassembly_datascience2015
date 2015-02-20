@@ -16,6 +16,6 @@ Here, you'll find links to slides, handouts, and other material.
 
 ### Classes
 - Class 1 (2015-02-10): [Introduction to Data Science & Basic Data Manipulation](https://github.com/ga-students/la-dat-06/wiki/Lesson-01)
-- Class 2 (2015-02-12): [Intro to Python](./Lec02/)
-- Class 3 (2015-02-17): [Into to NumPy](./Lec03/)
-- Class 4 (2015-02-19): [SQL & Pandas](./Lec04/)
+- Class 2 (2015-02-12): [Intro to Python](https://github.com/ga-students/la-dat-06/wiki/Lesson-02)
+- Class 3 (2015-02-17): [Into to NumPy](https://github.com/ga-students/la-dat-06/wiki/Lesson-03)
+- Class 4 (2015-02-19): [SQL & Pandas](https://github.com/ga-students/la-dat-06/wiki/Lesson-04)
