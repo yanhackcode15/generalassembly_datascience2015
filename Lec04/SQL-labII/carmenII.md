@@ -35,7 +35,7 @@ And figure out where Carmen's headed, so we can catch her and bring her in.
 
 **Clue #3:** In the country she is currently in, Carmen Sandiego wants to blend in. So, Carmen must be hiding in the **district** with the highest total population. 
 
-Each city belongs to a district. So, for each district, sum the populations of each city in that district and find the district with the highest population. You already know which country Carmen is in -- now which **district** is she in? (Confirm you are on the right track -- the district contains exactly 18 cities!)
+Each city belongs to a district. So, for each district, sum the populations of each city in that district and find the district with the highest population. You already know which country Carmen is in -- now which **district** is she in? (Confirm you are on the right track -- the district contains exactly 2 cities!)
 
 ```SQL
 -- YOUR SQL QUERY GOES HERE
