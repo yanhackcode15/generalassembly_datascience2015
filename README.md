@@ -19,12 +19,12 @@ Here, you'll find links to slides, handouts, and other material.
 - Class 2 (2015-02-12): [Intro to Python](https://github.com/ga-students/la-dat-06/wiki/Lesson-02)
 - Class 3 (2015-02-17): [Into to NumPy](https://github.com/ga-students/la-dat-06/wiki/Lesson-03)
 - Class 4 (2015-02-19): [SQL & Python](https://github.com/ga-students/la-dat-06/wiki/Lesson-04)
-- Class 5 (2015-02-25): [Pandas - 1. Getting Started, 2. Data Loading, Storage, Transform, Merge, Reshape, 4. Visualization]
-- Class 6 (2015-02-27): [Pandas - 5. Plotting and Visualization, Aggregation, and group operations]
-- Class 7 (2015-03-04): [Intro to Machine Learning, Training, Testing, Validation - Linear Regression]
-- Class 8 (2015-03-06): [Generalized Linear Models]
-- Class 9 (2015-03-11): [Neural Networks (1) - Backpropagation]
-- Class 10 (2015-03-13): [Neural Networks (2) - Deep Networks]
+- Class 5 (2015-02-25): [Pandas - 1. Getting Started, 2. Data Loading, Storage, Transform, Merge, Reshape, 4. Visualization](https://github.com/ga-students/la-dat-06/wiki/Lesson-05)
+- Class 6 (2015-02-27): [Pandas - 5. Plotting and Visualization, Aggregation, and group operations](https://github.com/ga-students/la-dat-06/wiki/Lesson-06)
+- Class 7 (2015-03-04): [Intro to Machine Learning, Training, Testing, Validation - Linear Regression](https://github.com/ga-students/la-dat-06/wiki/Lesson-07)
+- Class 8 (2015-03-06): [Generalized Linear Models](https://github.com/ga-students/la-dat-06/wiki/Lesson-08)
+- Class 9 (2015-03-11): [Neural Networks (1) - Backpropagation](https://github.com/ga-students/la-dat-06/wiki/Lesson-09)
+- Class 10 (2015-03-13): [Neural Networks (2) - Deep Networks](https://github.com/ga-students/la-dat-06/wiki/Lesson-10)
 - Class 11 (2015-03-18): [Support Vector Machines (1)]
 - Class 12 (2015-03-20): [Support Vector Machines (2) - Examples and Kernels]
 - Class 13 (2015-03-25): [Decision Trees, Restricted Boltzman Machines (RBM)]
