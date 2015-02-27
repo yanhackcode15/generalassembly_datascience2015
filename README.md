@@ -9,6 +9,7 @@ Here, you'll find links to slides, handouts, and other material.
 - [Resources](https://github.com/ga-students/la-dat-05/wiki/Resources): Links to Python and other tools and libraries that we'll be using, as well as resources for learning about them. 
 - Final Projects
   - Examples of past projects [can be found here.](http://gallery.ga.co/DS?metro=)  Projects from LA-DAT-05 will be added soon
+  - [More example projects from the Washington DC Data Science.](https://github.com/justmarkham/DAT-project-examples)
 
 ### Useful Books
 - [A list of useful books](https://github.com/adparker/GADSLA_1403/wiki/Books)
