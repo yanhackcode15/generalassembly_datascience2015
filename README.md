@@ -16,6 +16,8 @@ Here, you'll find links to slides, handouts, and other material.
 
 ### Key Dates
 - February 10, 2015: First Day of Class
+- March 10, 2015: Final Project Outlines Due
+- March 12, 2015: Homework 2 due
 
 ### Classes
 - Class 1 (2015-02-10): [Intro to Data Science & Basic Data Manipulation](https://github.com/ga-students/la-dat-06/wiki/Lesson-01)
