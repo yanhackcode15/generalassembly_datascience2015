@@ -8,8 +8,8 @@ Here, you'll find links to slides, handouts, and other material.
 - [General Assembly Class Information](https://generalassemb.ly/education/data-science/los-angeles)
 - [Resources](https://github.com/ga-students/la-dat-05/wiki/Resources): Links to Python and other tools and libraries that we'll be using, as well as resources for learning about them. 
 - Final Projects
-  - [Final Project Requirements](https://github.com/ga-students/la-dat-06/wiki/Final_Project_Ideas)
-  - [Final Project Ideas](https://github.com/ga-students/la-dat-06/wiki/Final_Project_Req)
+  - [Final Project Requirements](https://github.com/ga-students/la-dat-06/wiki/Final_Project_Req)
+  - [Final Project Ideas](https://github.com/ga-students/la-dat-06/wiki/Final_Project_Ideas)
 
 ### Useful Books
 - [A list of useful books](https://github.com/adparker/GADSLA_1403/wiki/Books)
