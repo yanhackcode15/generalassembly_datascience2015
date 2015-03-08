@@ -1,7 +1,11 @@
-# la-dat-06
-===========
 General Assembly Data Science, Los Angeles, February 2015 - April 2015
-------------------------------------------------------
+===========
+
+### UPCOMING DEADLINES!
+- This Tuesday - March 10, 2015: [Final Project Outlines](./wiki/Final_Project_Req#outline-due-march-10-present--discuss-april-23) Due
+- This Thursday - March 12, 2015: [Homework 2](./Homework/HW2/LinRegressionHW.ipynb)* due
+
+* - To download, click on the Raw button in the upper-right, then save the page (Cmd-S).
 
 ### General Info
 Here, you'll find links to slides, handouts, and other material.
