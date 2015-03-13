@@ -39,7 +39,7 @@ Here, you'll find links to slides, handouts, and other material.
 - Class 12 (2015-03-19): [Support Vector Machines (2) - Examples and Kernels](https://github.com/ga-students/la-dat-06/wiki/Lesson-12)
 - Class 13 (2015-03-24): [Decision Trees, Restricted Boltzman Machines (RBM)](https://github.com/ga-students/la-dat-06/wiki/Lesson-13)
 - Class 14 (2015-03-26): [Dimensionality Reduction, PCA, Deep Nets, Feature Selection](https://github.com/ga-students/la-dat-06/wiki/Lesson-14)
-- Class 15 (2015-04-31): [Nearest Neighbors, Stochastic Gradient Descent](https://github.com/ga-students/la-dat-06/wiki/Lesson-15)
+- Class 15 (2015-03-31): [Nearest Neighbors, Stochastic Gradient Descent](https://github.com/ga-students/la-dat-06/wiki/Lesson-15)
 - Class 16 (2015-04-02): [Validation, Bias-Variance Trade-off and Examples](https://github.com/ga-students/la-dat-06/wiki/Lesson-16)
 - Class 17 (2015-04-07): [Distributed File Systems, Intro to Hadoop, Hive, Spark and Map-Reduce](https://github.com/ga-students/la-dat-06/wiki/Lesson-17)
 - Class 18 (2015-04-09): [Genetic Algorithms](https://github.com/ga-students/la-dat-06/wiki/Lesson-18)
