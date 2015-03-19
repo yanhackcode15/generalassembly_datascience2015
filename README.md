@@ -35,15 +35,17 @@ Here, you'll find links to slides, handouts, and other material.
 - Class 8 (2015-03-05): [Generalized Linear Models](https://github.com/ga-students/la-dat-06/wiki/Lesson-08)
 - Class 9 (2015-03-10): [Neural Networks (1) - Backpropagation](https://github.com/ga-students/la-dat-06/wiki/Lesson-09)
 - Class 10 (2015-03-12): [Neural Networks (2) - Deep Networks](https://github.com/ga-students/la-dat-06/wiki/Lesson-10)
-- Class 11 (2015-03-17): [Neural Networks, Dan](https://github.com/ga-students/la-dat-06/wiki/Lesson-11)
-- Class 12 (2015-03-19): [NN: Back Propogations and Support Vector Machines](https://github.com/ga-students/la-dat-06/wiki/Lesson-12)
-- Class 13 (2015-03-24): [Decision Trees, Restricted Boltzman Machines (RBM)](https://github.com/ga-students/la-dat-06/wiki/Lesson-13)
-- Class 14 (2015-03-26): [Dimensionality Reduction, PCA, Deep Nets, Feature Selection](https://github.com/ga-students/la-dat-06/wiki/Lesson-14)
-- Class 15 (2015-03-31): [Nearest Neighbors, Stochastic Gradient Descent](https://github.com/ga-students/la-dat-06/wiki/Lesson-15)
-- Class 16 (2015-04-02): [Validation, Bias-Variance Trade-off and Examples](https://github.com/ga-students/la-dat-06/wiki/Lesson-16)
-- Class 17 (2015-04-07): [Distributed File Systems, Intro to Hadoop, Hive, Spark and Map-Reduce](https://github.com/ga-students/la-dat-06/wiki/Lesson-17)
-- Class 18 (2015-04-09): [Genetic Algorithms](https://github.com/ga-students/la-dat-06/wiki/Lesson-18)
-- Class 19 (2015-04-14): [NLTK, CoreNLP, and Working with APIs](https://github.com/ga-students/la-dat-06/wiki/Lesson-19)
-- Class 20 (2015-04-16): [Introduction to R and Shiny](https://github.com/ga-students/la-dat-06/wiki/Lesson-20)
-- Class 21 (2015-04-21): [Final Review]
-- Class 22 (2015-04-23): [Projects Presentations]
+- Class 11 (2015-03-17): [Neural Networks - Gates, Gradient Descent](https://github.com/ga-students/la-dat-06/wiki/Lesson-11)
+- Class 12 (2015-03-19): [Backpropagation, Support Vector Machines](https://github.com/ga-students/la-dat-06/wiki/Lesson-12)
+- Class 13 (2015-03-24): [Naive Bayes](https://github.com/ga-students/la-dat-06/wiki/Lesson-13) **(HW3 OUT)**
+- Class 14 (2015-03-26): [Decision Trees and Random Forests](https://github.com/ga-students/la-dat-06/wiki/Lesson-14)
+- Class 15 (2015-03-31): [Clustering Algorithms](https://github.com/ga-students/la-dat-06/wiki/Lesson-15)
+- Class 16 (2015-04-02): [Review: Classifiers & Clustering w/ Kaggle Example](https://github.com/ga-students/la-dat-06/wiki/Lesson-16) **(HW3 DUE)**
+- Class 17 (2015-04-07): [Unsupervised Learning & PCA](https://github.com/ga-students/la-dat-06/wiki/Lesson-17) **(HW4 OUT)**
+- Class 18 (2015-04-09): [Recommendation Systems](https://github.com/ga-students/la-dat-06/wiki/Lesson-18)
+- Class 19 (2015-04-14): [Dataset Transformations & Multi-Armed Bandits](https://github.com/ga-students/la-dat-06/wiki/Lesson-19)
+- Class 20 (2015-04-16): [Language Processing - NLTK, CoreNLP](https://github.com/ga-students/la-dat-06/wiki/Lesson-20) **(HW4 DUE)**
+- Class 21 (2015-04-21): [Data Visualization](https://github.com/ga-students/la-dat-06/wiki/Lesson-21)
+- Class 22 (2015-04-23): [Hadoop, MapReduce, Distributed Systems](https://github.com/ga-students/la-dat-06/wiki/Lesson-22)
+- Class 23 (2015-04-28): [Final Review]
+- Class 24 (2015-04-30): [Projects Presentations]
