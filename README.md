@@ -36,7 +36,7 @@ Here, you'll find links to slides, handouts, and other material.
 - Class 9 (2015-03-10): [Neural Networks (1) - Backpropagation](https://github.com/ga-students/la-dat-06/wiki/Lesson-09)
 - Class 10 (2015-03-12): [Neural Networks (2) - Deep Networks](https://github.com/ga-students/la-dat-06/wiki/Lesson-10)
 - Class 11 (2015-03-17): [Neural Networks - Gates, Gradient Descent](https://github.com/ga-students/la-dat-06/wiki/Lesson-11)
-- Class 12 (2015-03-19): [Backpropagation](https://github.com/ga-students/la-dat-06/wiki/Lesson-12)
+- Class 12 (2015-03-19): [Backpropagation, Neural Net Iris Lab](https://github.com/ga-students/la-dat-06/wiki/Lesson-12)
 - Class 13 (2015-03-24): [Support Vector Machines, Naive Bayes I](https://github.com/ga-students/la-dat-06/wiki/Lesson-13) **(HW3 OUT)**
 - Class 14 (2015-03-26): [Decision Trees (Carlyle), Naive Bayes II](https://github.com/ga-students/la-dat-06/wiki/Lesson-14)
 - Class 15 (2015-03-31): [Clustering Algorithms](https://github.com/ga-students/la-dat-06/wiki/Lesson-15)
